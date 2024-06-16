@@ -1,0 +1,9 @@
+ignore_files:
+  - .gitignore
+  - pyproject.toml
+  - setup.cfg
+  - .trybe/
+  - tests/*
+  - src/seed.py
+  - src/models/abstract_model.py
+  - src/database/*
